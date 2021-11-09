@@ -9,7 +9,7 @@ Created on Fri Nov  5 12:37:26 2021
 
 import numpy as np
 import pandas as pd
-
+import random
 ## load premade datasets to use
 
 from sklearn.datasets import load_boston, load_iris
